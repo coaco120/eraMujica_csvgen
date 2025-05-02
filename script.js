@@ -30,7 +30,7 @@ const equipMeta = [
     { key: "上半身内衣", items: ["胸罩","吊带背心","裹胸布","Ｔ衬衫"] },  
     { key: "下半身外套", items: ["长裙","格仔裙","双排扣短裤","裤子","深色的月之森百摺裙","羽丘的绿色格仔裙","高腰长裙","红黑拼接金边裙裤","白色阔腿裤","灰色半身裙"] },  
     { key: "上半身外套", items: ["白色T衫","丝带蝶结外衣","马甲及衬衣","月之森制服外套","羽丘灰色制服外套","荷叶边短袖上衣","红黑复古短斗篷","米黄马甲拼接黑色T恤","白色系带蝴蝶结长袖衬衫"] },  
-    { key: "全身外套", items: ["Oblivionis全身服","Doloris全身服","可爱的红白色连衣裙","花咲川学生校服","Mortis全身服","Timoris全身服","Amoris全身服","sumimi活动制服","格纹长袖连衣裙","和服","全套西装","连衣裙","过宽的白色衬衣",] }  
+    { key: "全身外套", items: ["Oblivionis全身服","Doloris全身服","可爱的红白色连衣裙","花咲川学生校服","Mortis全身服","Timoris全身服","Amoris全身服","sumimi活动制服","格纹长袖连衣裙","和服","全套西装","私服","过宽的白色衬衣",] }  
 ];  
 
 const songList = [  
@@ -40,7 +40,7 @@ const songList = [
     "Symbol I : △","Symbol II : Air","Symbol III : ▽","Symbol IV : Earth","Ether",
     "人間になりたいうた","キリトリセン","ないばいたりてぃ","栞","TEENAGE RIOT青春暴动",
     "君の神様になりたい","春日影 (MyGO!!!!! ver.)","春日影 (CRYCHIC ver.)","輪符雨","詩超絆",
-    "迷星叫","影色舞","焚音打"
+    "迷星叫","影色舞","焚音打","Here, the world!","Sweet Escape"
 ];  
 
 window.onload = function() {  
