@@ -65,7 +65,7 @@ input[type="text"]:focus, input[type="number"]:focus, select:focus {
 }  
 .talentBtn {  
     border: 1px solid #d5d7da;  
-    background: #eef2fa;  
+    background: #c6ccde;  
     border-radius: 6px;  
     padding: 6px 16px;  
     font-size: 0.98em;  
